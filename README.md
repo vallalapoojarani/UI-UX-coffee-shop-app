@@ -185,5 +185,12 @@ This project can serve as:
 * A foundation for a complete coffee ordering platform.
 
 If you like this project, consider giving it a ⭐ on GitHub.
+
+
+
+
+
+
+
 https://github.com/user-attachments/assets/8ab3c832-97f6-4f26-bdf8-e5dcdd05595d
 
