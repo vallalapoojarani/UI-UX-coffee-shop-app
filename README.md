@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/537c77c4-ffd5-46fc-848a-430730cf8ac3
-
 
 
 <img width="1440" height="810" alt="Thumbnail" src="https://github.com/user-attachments/assets/34b99a06-6469-45f3-9fd1-2a877a367e0c" />
@@ -37,19 +35,6 @@ This project is ideal for demonstrating modern frontend development skills, resp
 * Highlight featured drinks and special menu items.
 * Beautiful product cards with descriptions and images.
 * Easy-to-read menu presentation.
-
-## 🎥 Video Integration
-
-* Includes coffee shop promotional or background video support.
-* Enhances user interaction and visual experience.
-* Creates a modern landing page appearance.
-
-## ⚡ Smooth User Experience
-
-* Fast and lightweight application.
-* Easy navigation between sections.
-* User-friendly interface for all age groups.
-* Designed for smooth and engaging interactions.
 
 ## 🌙 Interactive Components
 
