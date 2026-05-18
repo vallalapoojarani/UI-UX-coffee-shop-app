@@ -2,7 +2,8 @@
 
 
 
-<img width="1440" height="810" alt="Thumbnail" src="https://github.com/user-attachments/assets/34b99a06-6469-45f3-9fd1-2a877a367e0c" />
+<img width="1440" height="1047" alt="Thumbnail (1)" src="https://github.com/user-attachments/assets/816cc9ac-5e06-42b8-869c-7341d9e9f4d6" />
+
 # ☕ UI-UX Coffee Shop App
 
 A modern and fully responsive Coffee Shop UI/UX web application designed to deliver a smooth, elegant, and interactive experience for coffee lovers. This project showcases a visually appealing coffee shop interface with clean layouts, attractive color combinations, and user-friendly navigation.
