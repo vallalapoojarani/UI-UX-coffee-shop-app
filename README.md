@@ -1,7 +1,6 @@
 
 
 
-
 <img width="1440" height="1047" alt="Thumbnail (1)" src="https://github.com/user-attachments/assets/816cc9ac-5e06-42b8-869c-7341d9e9f4d6" />
 
 # ☕ UI-UX Coffee Shop App
@@ -186,3 +185,5 @@ This project can serve as:
 * A foundation for a complete coffee ordering platform.
 
 If you like this project, consider giving it a ⭐ on GitHub.
+https://github.com/user-attachments/assets/8ab3c832-97f6-4f26-bdf8-e5dcdd05595d
+
